@@ -1,0 +1,3 @@
+# Flightdelay_mongodb
+
+Flight delays hurt airlines, airports, and passengers. Their prediction is important for the decision-making process in commercial aviation. The development of accurate prediction models for flight delays became cumbersome due to the complexity of air transportation system, the number of methods for prediction, and the deluge of flight data. In this context, we reviewed approaches used to build flight delay prediction models from the Data Science perspective. We compared the accuracy of four different classification models namely Naïve Bayes, Decision Tree Classification, Random forest Classification and KNN Classification.
